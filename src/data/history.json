@@ -1,29 +1,26 @@
 [
   {
-    "role": "Software Engineer",
-    "organisation": "Google",
-    "startDate": "Sept, 2022",
+    "role": "Associate Consultant",
+    "organisation": "Infosys Ltd",
+    "startDate": "Aug, 2022",
     "endDate": "Present",
-    "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
-    "imageSrc": "history/google.png"
-  },
-  {
-    "role": "UI Designer",
-    "organisation": "Mirosoft",
-    "startDate": "Aug, 2021",
-    "endDate": "Aug, 2022",
-    "experiences": ["Worked on Windows 11", "Designed the control panel"],
-    "imageSrc": "history/microsoft.png"
-  },
-  {
-    "role": "SWE Intern",
-    "organisation": "Netflix",
-    "startDate": "Apr, 2020",
-    "endDate": "Jun, 2020",
     "experiences": [
-      "Worked on component library",
-      "Helped create UI components"
+      "Optimized ReactJS and GraphQL queries to enhance User Dashboard performance, achieving a 20% faster load time.",
+      "Designed and maintained scalable databases, ensuring high data integrity and seamless integration with frontend applications, reducing data issues by 30%.",
+      "Developed and deployed secure RESTful APIs and GraphQL endpoints, enhancing overall system reliability and enabling faster feature deployments."
     ],
-    "imageSrc": "history/netflix.png"
+    "imageSrc": ""
+  },
+  {
+    "role": "UI/UX Engineer",
+    "organisation": "SkilledAnswers",
+    "startDate": "Aug, 2020",
+    "endDate": "Aug, 2022",
+    "experiences": [
+      "Recognized for delivering high-quality products on time, enhancing project delivery ratings",
+      "Boosted SEO by 40%, leading to a 25% increase in organic traffic.",
+      "Developed interactive data visualizations and an in-app chat feature, improving decision-making speed and user retention."
+    ],
+    "imageSrc": ""
   }
 ]

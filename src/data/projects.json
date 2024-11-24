@@ -1,26 +1,50 @@
 [
   {
-    "title": "Project A",
+    "title": "Paiinternational",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "Online Shopping Site for Furniture Now available for Mobiles, Electronics & More",
+    "skills": [
+      "React",
+      "Express",
+      "Node"
+    ],
+    "demo": "https://www.paiinternational.in/",
+    "source": ""
   },
   {
-    "title": "Project B",
+    "title": "Sangeetha Mobiles",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "Online Shopping Site for Mobiles, Electronics, Home & Kitchen Appliances & More",
+    "skills": [
+      "React",
+      "Express",
+      "Node"
+    ],
+    "demo": "https://www.sangeethamobiles.com/",
+    "source": ""
   },
   {
-    "title": "Project C",
+    "title": "Mibook",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "Mibook is a reliable partner to handle your business finances and compliance",
+    "skills": [
+      "React",
+      "Express",
+      "Node"
+    ],
+    "demo": "https://mibook.co.in/",
+    "source": ""
+  },
+  {
+    "title": "BIAN Portal",
+    "imageSrc": "projects/project.png",
+    "description": "Banking Industry architecture network - Gain Insights, Guide or dive deeper into APIs and resources",
+    "skills": [
+      "React",
+      "Express",
+      "Node"
+    ],
+    "demo": "https://portal.bian.org/",
+    "source": ""
   }
 ]
