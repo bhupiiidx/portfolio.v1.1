@@ -13,13 +13,24 @@
   },
   {
     "role": "UI/UX Engineer",
-    "organisation": "SkilledAnswers",
+    "organisation": "SkilledAnswers Infosolutions Private Ltd",
     "startDate": "Aug, 2020",
     "endDate": "Aug, 2022",
     "experiences": [
       "Recognized for delivering high-quality products on time, enhancing project delivery ratings",
       "Boosted SEO by 40%, leading to a 25% increase in organic traffic.",
       "Developed interactive data visualizations and an in-app chat feature, improving decision-making speed and user retention."
+    ],
+    "imageSrc": ""
+  },
+  {
+    "role": "React Developer - Freelance",
+    "organisation": "Curnard Consulting",
+    "startDate": "Jan, 2022",
+    "endDate": "Present",
+    "experiences": [
+      "Freelance Project",
+      "Develop Banking industry architecture network where they can visualize and compare there API's and resources"
     ],
     "imageSrc": ""
   }
